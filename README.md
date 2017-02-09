@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # ardrone_autonomy 
 
 [ROS](http://ros.org) Driver for [Parrot AR-Drone](http://ardrone2.parrot.com/) 1.0 & 2.0 Quadrocopters
@@ -15,6 +16,10 @@
 * ROS Build farm (_Indigo_): [![Build Status](http://build.ros.org/buildStatus/icon?job=Idev__ardrone_autonomy__ubuntu_trusty_amd64)](http://build.ros.org/job/Idev__ardrone_autonomy__ubuntu_trusty_amd64/)
 * Travis (_Jade_/_Indigo_): [![Build Status](https://travis-ci.org/AutonomyLab/ardrone_autonomy.svg?branch=indigo-devel)](https://travis-ci.org/AutonomyLab/ardrone_autonomy)
 
+=======
+# CSUCI_CAPSTONE-
+Parrot AR drone tracking 
+>>>>>>> 06bb9d032be64cb1d570c705acc8fb8fdf8d7087
 =======
 # CSUCI_CAPSTONE-
 Parrot AR drone tracking 
