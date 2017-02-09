@@ -21,3 +21,7 @@ Parrot AR drone tracking
 =======
 # CSUCI_CAPSTONE-
 Parrot AR drone tracking
+
+Using ROS to build an autonomous drone that is able to track a ball held in a hand. 
+
+ 
